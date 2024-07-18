@@ -1,2 +1,1 @@
-# mytest-repo
-mytest-repo
+# Hello, GitHub!
